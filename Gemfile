@@ -32,7 +32,6 @@ gem 'jbuilder', '~> 2.5'
 
 gem 'devise'
 gem 'omniauth'
-gem 'omniauth-twitter'
 gem 'omniauth-facebook'
 
 group :development, :test do
